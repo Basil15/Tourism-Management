@@ -1,0 +1,1225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/templates/user/view hotel.html" description="&lt;td&gt;Email&lt;/td&gt;" line="20" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29140599-c799-4549-895f-745bd39d92fb" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Tourism$Tourism.coverage" NAME="Tourism Coverage Results" MODIFIED="1680501902517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="Add tourist place.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/admin/Add tourist place.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="97" lean-forward="false" selection-start-line="5" selection-start-column="97" selection-end-line="5" selection-end-column="97" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DBConnection.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DBConnection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/admintemp/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="1050" column="186" lean-forward="false" selection-start-line="1050" selection-start-column="182" selection-end-line="1050" selection-end-column="186" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view tourist place.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/admin/view tourist place.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="54" lean-forward="false" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view tourist place.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/user/view tourist place.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3050">
+              <caret line="122" column="8" lean-forward="false" selection-start-line="122" selection-start-column="8" selection-end-line="122" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add review hotel.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/user/add review hotel.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="23" column="74" lean-forward="false" selection-start-line="23" selection-start-column="74" selection-end-line="23" selection-end-column="74" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tourism.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tourism.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1410">
+              <caret line="631" column="69" lean-forward="false" selection-start-line="631" selection-start-column="68" selection-end-line="631" selection-end-column="69" />
+              <folding>
+                <marker date="1643279845269" expanded="true" signature="683:763" ph="select * fro... login" />
+                <marker date="1643279845269" expanded="true" signature="1637:1796" ph="insert into enquiry... " />
+                <marker date="1643279845269" expanded="true" signature="2966:3050" ph="INSERT INTO login... " />
+                <marker date="1643279845269" expanded="true" signature="3098:3276" ph="INSERT INTO user... " />
+                <marker date="1643279845269" expanded="true" signature="3589:3628" ph="select * fro... user" />
+                <marker date="1643279845269" expanded="true" signature="4989:5195" ph="INSERT INTO `tourist place`... " />
+                <marker date="1643279845269" expanded="true" signature="5382:5431" ph="select * fro... tourist place" />
+                <marker date="1643279845269" expanded="true" signature="6636:6878" ph="update `tour... " />
+                <marker date="1643279845269" expanded="true" signature="6969:7169" ph="update `tour... " />
+                <marker date="1643279845269" expanded="true" signature="7496:7712" ph="update `tour... " />
+                <marker date="1643279845269" expanded="true" signature="7803:7999" ph="update `tour... " />
+                <marker date="1643279845269" expanded="true" signature="8304:8525" ph="update `tour... " />
+                <marker date="1643279845269" expanded="true" signature="8615:8815" ph="update `tour... " />
+                <marker date="1643279845269" expanded="true" signature="8896:9076" ph="update `tour... " />
+                <marker date="1643279845269" expanded="true" signature="9334:9391" ph="select * fro... tourist place" />
+                <marker date="1643279845269" expanded="true" signature="9625:9654" ph="select * fro... tourist place" />
+                <marker date="1643279845269" expanded="true" signature="9855:9902" ph="delete from " />
+                <marker date="1643279845269" expanded="true" signature="10897:11105" ph="INSERT INTO vehicle... " />
+                <marker date="1643279845269" expanded="true" signature="11287:11340" ph="select * fro... vehicle" />
+                <marker date="1643279845269" expanded="true" signature="11853:11894" ph="select * fro... vehicle" />
+                <marker date="1643279845269" expanded="true" signature="12829:13023" ph="update vehic... " />
+                <marker date="1643279845269" expanded="true" signature="13107:13301" ph="update vehic... " />
+                <marker date="1643279845269" expanded="true" signature="13381:13571" ph="update vehic... " />
+                <marker date="1643279845269" expanded="true" signature="13799:13820" ph="select * fro... vehicle" />
+                <marker date="1643279845269" expanded="true" signature="14006:14045" ph="delete from " />
+                <marker date="1643279845269" expanded="true" signature="15291:15632" ph="INSERT INTO hotel... " />
+                <marker date="1643279845269" expanded="true" signature="15797:15836" ph="select * fro... hotel" />
+                <marker date="1643279845269" expanded="true" signature="17122:17469" ph="update hotel... " />
+                <marker date="1643279845269" expanded="true" signature="17553:17937" ph="update hotel... " />
+                <marker date="1643279845269" expanded="true" signature="18013:18397" ph="update hotel... " />
+                <marker date="1643279845269" expanded="true" signature="18610:18629" ph="select * fro... hotel" />
+                <marker date="1643279845269" expanded="true" signature="18808:18847" ph="delete from " />
+                <marker date="1643279845269" expanded="true" signature="19060:19081" ph="select * fro... enquiry" />
+                <marker date="1643279845269" expanded="true" signature="19261:19357" ph="select compl... complaint" />
+                <marker date="1643279845269" expanded="true" signature="19541:19643" ph="select sugge... suggestions" />
+                <marker date="1643279845269" expanded="true" signature="20052:20134" ph="update compl... " />
+                <marker date="1643279845269" expanded="true" signature="20292:20494" ph="select `revi... user" />
+                <marker date="1643279845269" expanded="true" signature="20703:20753" ph="delete from " />
+                <marker date="1643279845269" expanded="true" signature="20983:21220" ph="select `revi... user" />
+                <marker date="1643279845269" expanded="true" signature="21444:21494" ph="delete from " />
+                <marker date="1643279845269" expanded="true" signature="21710:21728" ph="select * fro... user" />
+                <marker date="1643279845269" expanded="true" signature="22023:22052" ph="select * fro... tourist place" />
+                <marker date="1643279845269" expanded="true" signature="22293:22359" ph="select * fro... tourist place" />
+                <marker date="1643279845269" expanded="true" signature="22534:22555" ph="select * fro... vehicle" />
+                <marker date="1643279845269" expanded="true" signature="22788:22834" ph="select * fro... vehicle" />
+                <marker date="1643279845269" expanded="true" signature="22999:23018" ph="select * fro... hotel" />
+                <marker date="1643279845269" expanded="true" signature="23235:23283" ph="select * fro... hotel" />
+                <marker date="1643279845269" expanded="true" signature="24069:24191" ph="INSERT INTO suggestions... " />
+                <marker date="1643279845269" expanded="true" signature="24354:24410" ph="select * fro... suggestions" />
+                <marker date="1643279845269" expanded="true" signature="24766:24862" ph="INSERT INTO complaint... " />
+                <marker date="1643279845269" expanded="true" signature="25022:25076" ph="select * fro... complaint" />
+                <marker date="1643279845269" expanded="true" signature="25915:26044" ph="INSERT INTO `review place`... " />
+                <marker date="1643279845269" expanded="true" signature="26264:26349" ph="select * fro... review place" />
+                <marker date="1643279845269" expanded="true" signature="26418:26589" ph="select `revi... review place" />
+                <marker date="1643279845269" expanded="true" signature="26776:26823" ph="delete from " />
+                <marker date="1643279845269" expanded="true" signature="27731:27854" ph="INSERT INTO `review hotel`... " />
+                <marker date="1643279845269" expanded="true" signature="28060:28137" ph="select * fro... review hotel" />
+                <marker date="1643279845269" expanded="true" signature="28204:28367" ph="select `revi... review hotel" />
+                <marker date="1643279845269" expanded="true" signature="28552:28600" ph="delete from " />
+                <marker date="1643279845269" expanded="true" signature="28839:28881" ph="select * fro... enquiry" />
+                <marker date="1643279845269" expanded="true" signature="29308:29381" ph="update enqui... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add review place.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/user/add review place.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="875">
+              <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view suggestions.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/admin/view suggestions.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin_index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/admin/admin_index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13150">
+              <caret line="526" column="14" lean-forward="false" selection-start-line="526" selection-start-column="14" selection-end-line="526" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>user/v</find>
+      <find>logo.s</find>
+      <find>/admin_Add_tourist_place</find>
+      <find>block body</find>
+      <find>/admin_Add_Hotel</find>
+      <find>/admin_Add_vehicle</find>
+      <find>/admin_View_Users</find>
+      <find>/admin_Replay_Complaint</find>
+      <find>/admin_View_place_review</find>
+      <find>/user_Add_suggestion</find>
+      <find>/user_view_complaint</find>
+      <find>/user_Add_complaint</find>
+      <find>/user_View_vehicle</find>
+      <find>/admin_View_Enquiry</find>
+      <find>/user_View_Hotel</find>
+      <find>/admin_view_tourist_place</find>
+      <find>/admin_connect_post</find>
+      <find>user_view_review_place</find>
+      <find>user_view_review_hotel</find>
+      <find>user_delete_review_hotel</find>
+      <find>AT</find>
+      <find>Help</find>
+      <find>logout</find>
+      <find>text</find>
+      <find>w3_modal_body_grid</find>
+      <find>user_registration</find>
+      <find>&lt;input type=&quot;tel&quot; name=&quot;textfield3&quot; placeholder=&quot;Pin</find>
+      <find>admin_View_Suggestions</find>
+      <find>form</find>
+      <find>user_View_tourist_place</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DBConnection.py" />
+        <option value="$PROJECT_DIR$/templates/admin/View_hotel_reviws.html" />
+        <option value="$PROJECT_DIR$/static/admintemp/index.html" />
+        <option value="$PROJECT_DIR$/templates/admin/Delete hotel review.html" />
+        <option value="$PROJECT_DIR$/templates/admin/Delete place review.html" />
+        <option value="$PROJECT_DIR$/templates/user/View enquiry.html" />
+        <option value="$PROJECT_DIR$/templates/admin/home.html" />
+        <option value="$PROJECT_DIR$/templates/user/home.html" />
+        <option value="$PROJECT_DIR$/templates/admin/Edit Hotel.html" />
+        <option value="$PROJECT_DIR$/templates/admin/Edit tourist place.html" />
+        <option value="$PROJECT_DIR$/templates/user/add review hotel.html" />
+        <option value="$PROJECT_DIR$/templates/user/add review place.html" />
+        <option value="$PROJECT_DIR$/templates/admin/edit Vehicle.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view_registrate_users.html" />
+        <option value="$PROJECT_DIR$/templates/admin/Replay complaint.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view complaint.html" />
+        <option value="$PROJECT_DIR$/templates/user/view vehicle.html" />
+        <option value="$PROJECT_DIR$/templates/user/add suggestion.html" />
+        <option value="$PROJECT_DIR$/templates/user/view complaint.html" />
+        <option value="$PROJECT_DIR$/templates/user/view tourist place.html" />
+        <option value="$PROJECT_DIR$/templates/user/add complaint.html" />
+        <option value="$PROJECT_DIR$/templates/login.html" />
+        <option value="$PROJECT_DIR$/templates/admin/View enquiry.html" />
+        <option value="$PROJECT_DIR$/templates/user/view hotel.html" />
+        <option value="$PROJECT_DIR$/static/admintemp/scss/common/dark/components/_tables.scss" />
+        <option value="$PROJECT_DIR$/templates/admin/Replay enquiry.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view tourist place.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view hotel review.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view hotel.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view place review.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view vehicle.html" />
+        <option value="$PROJECT_DIR$/templates/user/view place review.html" />
+        <option value="$PROJECT_DIR$/templates/user/view hotel review.html" />
+        <option value="$PROJECT_DIR$/Tourism.py" />
+        <option value="$PROJECT_DIR$/templates/user/view suggestions.html" />
+        <option value="$PROJECT_DIR$/templates/admin/Add vehicle.html" />
+        <option value="$PROJECT_DIR$/templates/admin/Add Hotel.html" />
+        <option value="$PROJECT_DIR$/templates/user/user_index.html" />
+        <option value="$PROJECT_DIR$/static/Registration/css/style.css" />
+        <option value="$PROJECT_DIR$/templates/user registration.html" />
+        <option value="$PROJECT_DIR$/templates/Enquiry.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view suggestions.html" />
+        <option value="$PROJECT_DIR$/templates/admin/admin_index.html" />
+        <option value="$PROJECT_DIR$/templates/admin/Add tourist place.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="1" />
+    <option name="width" value="1938" />
+    <option name="height" value="1028" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tourism" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.7.1 (C:\Python37\python.exe) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tourism" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tourism" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tourism" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tourism" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tourism" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tourism" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tourism" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tourism" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tourism" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tourism" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Registration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tourism" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tourism" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Registration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tourism" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tourism" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admintemp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tourism" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tourism" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admintemp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tourism" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tourism" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admintemp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tourism" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tourism" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admintemp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fonts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\BASIL\PycharmProjects\Tourism\templates\admin" />
+      <recent name="C:\Users\BASIL\PycharmProjects\Tourism\static" />
+      <recent name="C:\Users\BASIL\PycharmProjects\Tourism\static\login\images" />
+      <recent name="C:\Users\BASIL\PycharmProjects\Tourism\templates\user" />
+      <recent name="C:\Users\BASIL\PycharmProjects\Tourism\static\admintemp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Tourism">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Tourism/static/admintemp/index.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Tourism" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Tourism" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Tourism" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Tourism" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="Tourism" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Tourism" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Tourism" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Tourism" type="PythonConfigurationType" factoryName="Python" singleton="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Tourism" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tourism.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.Tourism" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29140599-c799-4549-895f-745bd39d92fb" name="Default" comment="" />
+      <created>1640578706471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640578706471</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="1" width="1938" height="1028" extended-state="1" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19664139" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36144578" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18316269" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992035" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="jinja2-line">
+          <url>file://$PROJECT_DIR$/templates/user/view suggestions.html</url>
+          <line>37</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/static/admintemp/images/logo1.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admintemp/images/favicon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admintemp/images/logo-light.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admintemp/images/logo.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="124" column="18" lean-forward="false" selection-start-line="124" selection-start-column="18" selection-end-line="124" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/legacy.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="1272" column="18" lean-forward="false" selection-start-line="1272" selection-start-column="18" selection-end-line="1272" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/View enquiry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-87">
+          <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/login/images/b1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="41" lean-forward="false" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/icon.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/web-forms2.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="66" column="18" lean-forward="false" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/Edit Hotel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="78" column="8" lean-forward="false" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/Edit tourist place.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="75" lean-forward="false" selection-start-line="20" selection-start-column="75" selection-end-line="20" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admintemp/css/vertical-layout-light/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="16894" column="1" lean-forward="false" selection-start-line="16894" selection-start-column="1" selection-end-line="16894" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/add suggestion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="92" lean-forward="false" selection-start-line="10" selection-start-column="92" selection-end-line="10" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="132" column="8" lean-forward="true" selection-start-line="132" selection-start-column="8" selection-end-line="134" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/view vehicle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="41" column="132" lean-forward="false" selection-start-line="41" selection-start-column="132" selection-end-line="41" selection-end-column="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/view complaint.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="372" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/add complaint.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/Replay complaint.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="99" lean-forward="false" selection-start-line="12" selection-start-column="99" selection-end-line="12" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/view hotel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="53" column="88" lean-forward="false" selection-start-line="53" selection-start-column="88" selection-end-line="53" selection-end-column="88" />
+          <folding>
+            <marker date="1643270837015" expanded="false" signature="680:686" ph=" " />
+            <marker date="1643270837015" expanded="false" signature="799:805" ph=" " />
+            <marker date="1643270837015" expanded="false" signature="855:861" ph=" " />
+            <marker date="1643270837015" expanded="false" signature="895:901" ph=" " />
+            <marker date="1643270837015" expanded="false" signature="921:927" ph=" " />
+            <marker date="1643270837015" expanded="false" signature="980:986" ph=" " />
+            <marker date="1643270837015" expanded="false" signature="1006:1012" ph=" " />
+            <marker date="1643270837015" expanded="false" signature="1069:1075" ph=" " />
+            <marker date="1643270837015" expanded="false" signature="1095:1101" ph=" " />
+            <marker date="1643270837015" expanded="false" signature="1144:1150" ph=" " />
+            <marker date="1643270837015" expanded="false" signature="1190:1196" ph=" " />
+            <marker date="1643270837015" expanded="false" signature="1250:1256" ph=" " />
+            <marker date="1643270837015" expanded="false" signature="1293:1299" ph=" " />
+            <marker date="1643270837015" expanded="false" signature="1334:1340" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admintemp/scss/common/dark/components/_tables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view hotel review.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="34" column="138" lean-forward="false" selection-start-line="34" selection-start-column="138" selection-end-line="34" selection-end-column="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view place review.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="35" column="153" lean-forward="false" selection-start-line="35" selection-start-column="153" selection-end-line="35" selection-end-column="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view_registrate_users.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/View enquiry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="32" column="34" lean-forward="false" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view complaint.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="30" column="2" lean-forward="false" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/view place review.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="54" column="49" lean-forward="true" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/view hotel review.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="23" column="42" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/view suggestions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="107" column="3283" lean-forward="false" selection-start-line="107" selection-start-column="3283" selection-end-line="107" selection-end-column="3283" />
+          <folding>
+            <element signature="n#style#0;n#svg#0;n#span#0;n#div#2;n#div#0;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#span#1;n#div#2;n#div#0;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#span#2;n#div#2;n#div#0;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#span#3;n#div#2;n#div#0;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#span#4;n#div#2;n#div#0;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#span#0;n#span#0;n#div#0;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
+            <marker date="1643280739022" expanded="false" signature="672:678" ph=" " />
+            <marker date="1643280739022" expanded="false" signature="742:748" ph=" " />
+            <marker date="1643280739022" expanded="false" signature="823:829" ph=" " />
+            <marker date="1643280739022" expanded="false" signature="861:867" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/Replay enquiry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="50" lean-forward="false" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/edit Vehicle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="43" column="68" lean-forward="false" selection-start-line="43" selection-start-column="68" selection-end-line="43" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view hotel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="48" selection-start-column="81" selection-end-line="48" selection-end-column="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="54" lean-forward="false" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/user_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2122">
+          <caret line="439" column="88" lean-forward="false" selection-start-line="439" selection-start-column="88" selection-end-line="439" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view vehicle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="39" column="80" lean-forward="false" selection-start-line="39" selection-start-column="80" selection-end-line="39" selection-end-column="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/Add vehicle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="32" column="123" lean-forward="false" selection-start-line="32" selection-start-column="123" selection-end-line="32" selection-end-column="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/Registration/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="349" column="23" lean-forward="false" selection-start-line="349" selection-start-column="5" selection-end-line="349" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user registration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4750">
+          <caret line="190" column="116" lean-forward="false" selection-start-line="190" selection-start-column="116" selection-end-line="190" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/Add Hotel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1625">
+          <caret line="65" column="124" lean-forward="false" selection-start-line="65" selection-start-column="80" selection-end-line="65" selection-end-column="124" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Enquiry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2125">
+          <caret line="85" column="133" lean-forward="false" selection-start-line="85" selection-start-column="133" selection-end-line="85" selection-end-column="133" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view suggestions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/admin_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13150">
+          <caret line="526" column="14" lean-forward="false" selection-start-line="526" selection-start-column="14" selection-end-line="526" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/add review hotel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="74" lean-forward="false" selection-start-line="23" selection-start-column="74" selection-end-line="23" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view tourist place.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="54" lean-forward="false" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/view tourist place.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3050">
+          <caret line="122" column="8" lean-forward="false" selection-start-line="122" selection-start-column="8" selection-end-line="122" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/add review place.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/Add tourist place.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="97" lean-forward="false" selection-start-line="5" selection-start-column="97" selection-end-line="5" selection-end-column="97" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBConnection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admintemp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="1050" column="186" lean-forward="false" selection-start-line="1050" selection-start-column="182" selection-end-line="1050" selection-end-column="186" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tourism.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="631" column="69" lean-forward="false" selection-start-line="631" selection-start-column="68" selection-end-line="631" selection-end-column="69" />
+          <folding>
+            <marker date="1643279845269" expanded="true" signature="683:763" ph="select * fro... login" />
+            <marker date="1643279845269" expanded="true" signature="1637:1796" ph="insert into enquiry... " />
+            <marker date="1643279845269" expanded="true" signature="2966:3050" ph="INSERT INTO login... " />
+            <marker date="1643279845269" expanded="true" signature="3098:3276" ph="INSERT INTO user... " />
+            <marker date="1643279845269" expanded="true" signature="3589:3628" ph="select * fro... user" />
+            <marker date="1643279845269" expanded="true" signature="4989:5195" ph="INSERT INTO `tourist place`... " />
+            <marker date="1643279845269" expanded="true" signature="5382:5431" ph="select * fro... tourist place" />
+            <marker date="1643279845269" expanded="true" signature="6636:6878" ph="update `tour... " />
+            <marker date="1643279845269" expanded="true" signature="6969:7169" ph="update `tour... " />
+            <marker date="1643279845269" expanded="true" signature="7496:7712" ph="update `tour... " />
+            <marker date="1643279845269" expanded="true" signature="7803:7999" ph="update `tour... " />
+            <marker date="1643279845269" expanded="true" signature="8304:8525" ph="update `tour... " />
+            <marker date="1643279845269" expanded="true" signature="8615:8815" ph="update `tour... " />
+            <marker date="1643279845269" expanded="true" signature="8896:9076" ph="update `tour... " />
+            <marker date="1643279845269" expanded="true" signature="9334:9391" ph="select * fro... tourist place" />
+            <marker date="1643279845269" expanded="true" signature="9625:9654" ph="select * fro... tourist place" />
+            <marker date="1643279845269" expanded="true" signature="9855:9902" ph="delete from " />
+            <marker date="1643279845269" expanded="true" signature="10897:11105" ph="INSERT INTO vehicle... " />
+            <marker date="1643279845269" expanded="true" signature="11287:11340" ph="select * fro... vehicle" />
+            <marker date="1643279845269" expanded="true" signature="11853:11894" ph="select * fro... vehicle" />
+            <marker date="1643279845269" expanded="true" signature="12829:13023" ph="update vehic... " />
+            <marker date="1643279845269" expanded="true" signature="13107:13301" ph="update vehic... " />
+            <marker date="1643279845269" expanded="true" signature="13381:13571" ph="update vehic... " />
+            <marker date="1643279845269" expanded="true" signature="13799:13820" ph="select * fro... vehicle" />
+            <marker date="1643279845269" expanded="true" signature="14006:14045" ph="delete from " />
+            <marker date="1643279845269" expanded="true" signature="15291:15632" ph="INSERT INTO hotel... " />
+            <marker date="1643279845269" expanded="true" signature="15797:15836" ph="select * fro... hotel" />
+            <marker date="1643279845269" expanded="true" signature="17122:17469" ph="update hotel... " />
+            <marker date="1643279845269" expanded="true" signature="17553:17937" ph="update hotel... " />
+            <marker date="1643279845269" expanded="true" signature="18013:18397" ph="update hotel... " />
+            <marker date="1643279845269" expanded="true" signature="18610:18629" ph="select * fro... hotel" />
+            <marker date="1643279845269" expanded="true" signature="18808:18847" ph="delete from " />
+            <marker date="1643279845269" expanded="true" signature="19060:19081" ph="select * fro... enquiry" />
+            <marker date="1643279845269" expanded="true" signature="19261:19357" ph="select compl... complaint" />
+            <marker date="1643279845269" expanded="true" signature="19541:19643" ph="select sugge... suggestions" />
+            <marker date="1643279845269" expanded="true" signature="20052:20134" ph="update compl... " />
+            <marker date="1643279845269" expanded="true" signature="20292:20494" ph="select `revi... user" />
+            <marker date="1643279845269" expanded="true" signature="20703:20753" ph="delete from " />
+            <marker date="1643279845269" expanded="true" signature="20983:21220" ph="select `revi... user" />
+            <marker date="1643279845269" expanded="true" signature="21444:21494" ph="delete from " />
+            <marker date="1643279845269" expanded="true" signature="21710:21728" ph="select * fro... user" />
+            <marker date="1643279845269" expanded="true" signature="22023:22052" ph="select * fro... tourist place" />
+            <marker date="1643279845269" expanded="true" signature="22293:22359" ph="select * fro... tourist place" />
+            <marker date="1643279845269" expanded="true" signature="22534:22555" ph="select * fro... vehicle" />
+            <marker date="1643279845269" expanded="true" signature="22788:22834" ph="select * fro... vehicle" />
+            <marker date="1643279845269" expanded="true" signature="22999:23018" ph="select * fro... hotel" />
+            <marker date="1643279845269" expanded="true" signature="23235:23283" ph="select * fro... hotel" />
+            <marker date="1643279845269" expanded="true" signature="24069:24191" ph="INSERT INTO suggestions... " />
+            <marker date="1643279845269" expanded="true" signature="24354:24410" ph="select * fro... suggestions" />
+            <marker date="1643279845269" expanded="true" signature="24766:24862" ph="INSERT INTO complaint... " />
+            <marker date="1643279845269" expanded="true" signature="25022:25076" ph="select * fro... complaint" />
+            <marker date="1643279845269" expanded="true" signature="25915:26044" ph="INSERT INTO `review place`... " />
+            <marker date="1643279845269" expanded="true" signature="26264:26349" ph="select * fro... review place" />
+            <marker date="1643279845269" expanded="true" signature="26418:26589" ph="select `revi... review place" />
+            <marker date="1643279845269" expanded="true" signature="26776:26823" ph="delete from " />
+            <marker date="1643279845269" expanded="true" signature="27731:27854" ph="INSERT INTO `review hotel`... " />
+            <marker date="1643279845269" expanded="true" signature="28060:28137" ph="select * fro... review hotel" />
+            <marker date="1643279845269" expanded="true" signature="28204:28367" ph="select `revi... review hotel" />
+            <marker date="1643279845269" expanded="true" signature="28552:28600" ph="delete from " />
+            <marker date="1643279845269" expanded="true" signature="28839:28881" ph="select * fro... enquiry" />
+            <marker date="1643279845269" expanded="true" signature="29308:29381" ph="update enqui... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
